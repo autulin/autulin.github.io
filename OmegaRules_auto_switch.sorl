@@ -1,0 +1,23 @@
+﻿[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2017/12/22
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.minergate.com
+*.huobi.pro
+*.gate.io
+*.inoreader.com
+*.nvidia.com
+*.azure.com
+*.putty.org
+*.ryerson.ca
+*.usenix.org
+*.cloudfront.net
+*.coursera.org
+*.leetcode.com
+*.www.gov.uk
+*.zhuangbi.me
+!*.xda-developers.com
+!*.udn.com
+!*.e-classical.com.tw
+!*.ttu.edu.tw
